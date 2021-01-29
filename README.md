@@ -5,7 +5,9 @@
 当初这个系统是学校俱乐部比赛时做的一个系统，也是自己学习web开发时练手的一个项目，算是一个中规中矩的项目吧<br/>
 
 # 项目链接<br/>
-链接：https://pan.baidu.com/s/19n7xoDJmR5mCcm8c6RbZkw 密码：uewa（包含项目源码，sql库表生成文件，项目功能展示ppt）<br/>
+链接：https://pan.baidu.com/s/1x7IookZK4SRGI72LVuNqLQ 
+提取码：b032 
+（包含项目源码，sql库表生成文件，项目功能展示ppt）<br/>
 
 # 项目介绍：<br/>
 
